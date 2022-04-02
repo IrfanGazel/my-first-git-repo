@@ -1,3 +1,3 @@
-public class FifthJavaClass {
+public class SixthJavaClass {
     //This will have some code
 }
