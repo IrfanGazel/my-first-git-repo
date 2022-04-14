@@ -1,3 +1,3 @@
 public class EigthJavaClass {
-    //This will have some code
+    System.out.println("hello");
 }
